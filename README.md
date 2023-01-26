@@ -1,2 +1,3 @@
-# Spring_CorePrinciple_Basic
-스프링 핵심원리 - 기본편
+# Spring_Core_Principle Basic
+Inflearn - 스프링 핵심 원리 - 기본편
+---  
