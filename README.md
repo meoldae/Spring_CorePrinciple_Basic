@@ -20,3 +20,6 @@ Inflearn - 스프링 핵심 원리 - 기본편
 - AppConfig (설정자) 를 이용한 관심사 분리 / DIP 위반 문제 해결 
 
 ```commit``` : [6c5361e](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/6c5361e2eedb074425b2fdc4f503aaffe24d4127)
+- Spring 컨테이너 사용
+
+```commit``` : [68aab8c](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/68aab8ccad5381c2edaae0a29b0515880078f66d)
