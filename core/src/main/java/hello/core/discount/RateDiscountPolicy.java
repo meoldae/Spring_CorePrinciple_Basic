@@ -5,7 +5,7 @@ import hello.core.member.Member;
 
 public class RateDiscountPolicy implements DiscountPolicy{
 
-    private int discountRateAmount = 20; // 비율 할인
+    private int discountRateAmount = 10; // 비율 할인
 
     @Override
     public int discount(Member member, int price) {
