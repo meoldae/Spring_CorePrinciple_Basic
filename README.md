@@ -20,6 +20,18 @@ Inflearn - 스프링 핵심 원리 - 기본편
 - AppConfig (설정자) 를 이용한 관심사 분리 / DIP 위반 문제 해결 
 
 ```commit``` : [6c5361e](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/6c5361e2eedb074425b2fdc4f503aaffe24d4127)
+
+
+## 03. 스프링 컨테이너와 스프링 빈
 - Spring 컨테이너 사용
 
 ```commit``` : [68aab8c](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/68aab8ccad5381c2edaae0a29b0515880078f66d)
+- Spring Bean을 조회하는 여러 방법 (in Test)
+
+```commit``` : [881fba6](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/881fba659debe288fb82d0cf12753e21f29f7ee2)
+- AppConfiguration을 XML 파일로 하는 방법 (거의 사용하지 않으나, 사용할 수도 있음)
+
+```commit``` : [319c854](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/319c8543f7880284548f1816bf3987e782bb47d4)
+- SpringBean의 Metadata인 BeanDefinition
+
+```commit``` : [2b333a8](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/2bee3a8192043797da7ccc08aa1d88d2575874f2)
