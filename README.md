@@ -35,3 +35,22 @@ Inflearn - 스프링 핵심 원리 - 기본편
 - SpringBean의 Metadata인 BeanDefinition
 
 ```commit``` : [2b333a8](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/2bee3a8192043797da7ccc08aa1d88d2575874f2)
+
+## 04. 싱글톤 컨테이너
+- 순수 자바를 통한 DI 컨테이너
+
+```commit``` : [f1123f8](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/f1123f89853666795c849f4a8f46d352631799cf)
+- Singleton 패턴 적용
+
+```commit``` : [b301c34](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/b301c346d2868bef8183ad2255e3357879d50edd)
+- 스프링 컨테이너를 통한 싱글톤
+
+```commit``` : [152d813](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/152d813dd1ad8f12b63c1f8dc35ad57182b7e377)
+- 싱글톤 사용 시 주의할 점
+
+```commit``` : [d0b1225](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/d0b122591cc050c0c2ee5dc68b649a5acb6ebf3c)
+- @Configuration을 통한 싱글톤 확인
+
+```commit``` : [2f93559](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/2f9355958c14f333caec05b330a1af1505409bb9)
+
+
