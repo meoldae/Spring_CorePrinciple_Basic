@@ -53,4 +53,17 @@ Inflearn - 스프링 핵심 원리 - 기본편
 
 ```commit``` : [2f93559](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/2f9355958c14f333caec05b330a1af1505409bb9)
 
+## 05. 컴포넌트 스캔
+- @ComponentScan 어노테이션을 통한 자동 의존관계 주입
+
+```commit``` : [0408250](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/0408258b037e6815c2da21bfcfab36d0f90ed232)
+- @ComponentScan 의 범위와 대상 지정 
+
+```commit``` : [f1b480b](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/f1b480beae643a99982b821e36d94b69719f29d9)
+- 어노테이션을 통한 컴포넌트 스캔 필터 적용
+
+```commit``` : [aedb1e9](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/aedb1e9c0cca97b7b9b560b00b77fbafd4510e41)
+
+- Bean 등록 시 중복 등록 및 충돌 (자동 vs 자동, 수동 vs 자동)
+
 
