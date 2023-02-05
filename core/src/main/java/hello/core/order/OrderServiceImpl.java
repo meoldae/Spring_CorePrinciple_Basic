@@ -3,7 +3,10 @@ package hello.core.order;
 import hello.core.discount.DiscountPolicy;
 import hello.core.member.Member;
 import hello.core.member.MemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component
 public class OrderServiceImpl implements OrderService{
 
     private final MemberRepository memberRepository;
@@ -16,6 +19,8 @@ public class OrderServiceImpl implements OrderService{
 
     // 역시 인터페이스(역할)에만 의존함!
     // 누군가 "주입"해주면 그것에 대해 로직만 실행하면 됨
+    @Autowired
+    // MemoryMemberRepo + RateDiscountPolicy 가 주입된다.
     public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
         this.memberRepository = memberRepository;
         this.discountPolicy = discountPolicy;
