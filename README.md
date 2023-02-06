@@ -66,4 +66,19 @@ Inflearn - 스프링 핵심 원리 - 기본편
 
 - Bean 등록 시 중복 등록 및 충돌 (자동 vs 자동, 수동 vs 자동)
 
+## 06. 의존관계 자동 주입
+- 다양한 의존관계 주입 방법 (생성자, 수정자, 필드, 일반 메서드)
+
+```commit``` : [8e418da](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/8e418da8f49d87226adb36cdf68620736f9c35ef)
+- Autowired의 세 가지 옵션 
+
+```commit``` : [7b052e4](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/7b052e48202de6894851a8fed000371aa068a62f)
+- 생성자 주입의 장점 
+  - 1. 순수 자바 코드를 통한 테스트 용이
+  - 2. final 키워드 적용 가능
+  
+- Lombok을 통한 편의성 강화 (Getter, Setter, Constructor)
+
+```commit``` : [7fcedc9](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/7fcedc9383df73c4087f46520bcda56a7bdedc42)
+
 
