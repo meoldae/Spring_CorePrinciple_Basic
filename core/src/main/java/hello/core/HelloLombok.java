@@ -14,7 +14,7 @@ public class HelloLombok {
 
     public static void main(String[] args) {
         HelloLombok helloLombok = new HelloLombok();
-
+        helloLombok.setAge(12);
         System.out.println("helloLombok = " + helloLombok);
     }
 }
