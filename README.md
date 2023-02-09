@@ -108,3 +108,13 @@ Inflearn - 스프링 핵심 원리 - 기본편
 ```commit``` : [9744914](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/9744914e1a419b51684e9ef7cc2ac80fd586880e)
 
 
+## 08. 빈 스코프
+- 싱글톤 스코프와 프로토타입 스코프
+
+```commit``` : [e189edc](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/e189edc6fae7984ccdcb424106cffae5baf1072d)
+- 싱글톤 스코프 빈이 프로토타입 빈을 사용할 때
+
+```commit``` : [ac34b05](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/ac34b0580d396fe6b62eae1d29ae2bc3cc774cac)
+- 위 문제 해결을 위한 Provider (스프링 Provider && 자바 표준 Provider)
+
+```commit``` : [cd4a104](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/cd4a1042b1793547323b0a4956bb91b61279d466)
