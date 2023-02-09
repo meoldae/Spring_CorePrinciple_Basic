@@ -80,5 +80,31 @@ Inflearn - 스프링 핵심 원리 - 기본편
 - Lombok을 통한 편의성 강화 (Getter, Setter, Constructor)
 
 ```commit``` : [7fcedc9](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/7fcedc9383df73c4087f46520bcda56a7bdedc42)
+- @Qualifier, @Primary 어노테이션의 사용 
+
+```commit``` : [510dfa6](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/510dfa6016967ee6f40777b2b87b4cb241805b1c)
+- 어노테이션 파라미터(문자열) 오류 확인을 줄이기 위한 사용자 정의 어노테이션
+
+```commit``` : [f53039f](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/f53039f3ce9024d4274efd34ace04f7c1383e3ec)
+- 다수의 빈을 조회해야할 때 List, Map의 활용
+
+```commit``` : [4901993](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/4901993b50036adfbcf7d99b996d00a2bbf32478)
+- 빈 등록시 수동 등록과 자동 등록의 사용 기준
+
+```commit``` : [74718b1](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/74718b1162fcfb61221b0a87eeee623bb011d6fb)
+
+## 07. 스프링 빈 생명주기와 콜백 메소드
+- 빈 생명주기 
+
+```commit``` : [ec7632a](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/ec7632a49269d7110d7fdfa393dc36d4b0e7663b)
+- implements InitializingBean, DisposableBean
+
+```commit``` : [66080d9](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/66080d92f778f4c195915f0ba0acfa94b00555a9)
+- 인터페이스가 아닌 설정 정보를 통한 콜백 메소드 사용 
+
+```commit``` : [7d08c11](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/7d08c1196db589d6129a8abcf7d8cfa9c674894c)
+- @PostConstruct, @PreDestroy 어노테이션의 사용
+
+```commit``` : [9744914](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/9744914e1a419b51684e9ef7cc2ac80fd586880e)
 
 
