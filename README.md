@@ -118,3 +118,9 @@ Inflearn - 스프링 핵심 원리 - 기본편
 - 위 문제 해결을 위한 Provider (스프링 Provider && 자바 표준 Provider)
 
 ```commit``` : [cd4a104](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/cd4a1042b1793547323b0a4956bb91b61279d466)
+- Web Scope 빈과 Provider를 통한 지연주입
+
+```commit``` : [54d32da](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/54d32dac6738592fc2b508bc4b8741edfc2a5562)
+- Proxy를 통해 Provider없이 지연 주입
+
+```commit``` : [d94bdac](https://github.com/meoldae/Spring_CorePrinciple_Basic/commit/d94bdacdbe70cb680cf798ceaad30608807f0e40)
